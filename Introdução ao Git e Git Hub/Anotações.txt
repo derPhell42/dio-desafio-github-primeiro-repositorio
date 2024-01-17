@@ -1,0 +1,5 @@
+https://git-scm.com/download/win - donwload git
+https://www.markdownguide.org/basic-syntax/ - sintaxe Git
+https://github.com/ - Link para o lar do octogato
+
+O git Bash é o terminal do Git. E é também o local onde é possivel baixar e subir arquivos par ao Github (que já mostra no nome para que serve (me lembra muito o console python IDLE))
